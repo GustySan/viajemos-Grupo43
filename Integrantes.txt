@@ -1,0 +1,4 @@
+Nombre y apellido - Número de legajo - Contacto
+Gustavo Sanchez - 11407/3 - gusty.sanchez@hotmail.com.ar
+Antony Yeraldo Meca Belahonia - 10132/9 - Meca_2306@hotmail.com
+Jesus Robles - 08909/3 - roblescortezjesus@gmail.com
